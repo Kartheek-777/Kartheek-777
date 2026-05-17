@@ -1,16 +1,32 @@
-## Hi there 👋
 
-<!--
-**Kartheek-777/Kartheek-777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋 I'm Kartheek Lagisetti
 
-Here are some ideas to get you started:
+🎓 B.Tech CSM Student  
+🏫 Sri Indu College of Engineering and Technology  
+🤖 AI/ML Enthusiast | Python Developer | CSM Student | Infosys Springboard Intern
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python
+- Database Management System
+- DSA
+- HTML
+- CSS
+- Git & GitHub
+
+## Projects
+- Live Sports Score Tracker
+- Inventory Management System
+- Insurance Assist using React
+- Hospital Management System using Django
+
+## Experience
+
+### Python Virtual Internship 6.0 – Infosys Springboard
+- Completed hands-on training in Python programming
+- Worked on problem-solving and core programming concepts
+- Learned basics of data handling, functions, and object-oriented programming
+- Completed internship assignments and practical exercises
+
+## Connect with Me
+- LinkedIn: https://www.linkedin.com/in/kartheeklagisetti8500461628
+- Email: kartheek777lagisetti@gmail.com
