@@ -8,13 +8,12 @@
 ## Skills
 - Python
 - Database Management System
-- DSA
+- MS Office
 - HTML
-- CSS
+- React
 - Git & GitHub
 
 ## Projects
-- Live Sports Score Tracker
 - Inventory Management System
 - Insurance Assist using React
 - Hospital Management System using Django
