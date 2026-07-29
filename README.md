@@ -3,20 +3,21 @@
 
 🎓 B.Tech CSM Student  
 🏫 Sri Indu College of Engineering and Technology  
-🤖 AI/ML Enthusiast | Python Developer | CSM Student | Infosys Springboard Intern
+🤖 Aspiring AI Engineer | CSM Student | Infosys Springboard Intern
 
 ## Skills
 - Python
 - Database Management System
 - MS Office
 - HTML
-- React
-- Git & GitHub
+- Django
+- Machine learning 
+- GitHub
 
 ## Projects
-- Inventory Management System
 - Insurance Assist using React
 - Hospital Management System using Django
+- Agrisense AI using Machine learning and AI 
 
 ## Experience
 
